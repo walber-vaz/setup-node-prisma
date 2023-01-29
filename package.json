@@ -1,0 +1,18 @@
+{
+  "name": "setup-node-prisma-mongo",
+  "version": "0.0.2",
+  "description": "Criando banckend para acha duos para estudar programação",
+  "main": "src/server.ts",
+  "author": "Walber Vaz da Silva <wvs.walber@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/config": "^3.3.0",
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "config": "^3.3.9",
+    "dotenv": "^16.0.3",
+    "envalid": "^7.3.1"
+  }
+}
